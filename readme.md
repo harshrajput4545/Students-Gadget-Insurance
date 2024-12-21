@@ -8,6 +8,8 @@ This project provides an insurance solution for students' gadgets and tools. The
 
 ## Contract Address
 0x9e0Be14fbadE9Cb59417BE3CC1c7E255329a44E7
+![image](https://github.com/user-attachments/assets/714adad8-54b7-44ec-98bc-c233954bc551)
+
 
 ## Project Vision
 The vision of this project is to offer an affordable, easy-to-use insurance service tailored for students who rely on gadgets and tools for their education. It ensures that students have the financial protection they need in case their gadgets are damaged or lost. By leveraging smart contracts, the insurance process becomes transparent, automated, and secure.
